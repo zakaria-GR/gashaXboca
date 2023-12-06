@@ -1,0 +1,48 @@
+{
+  "ADS": [
+    {
+      "select_main_ads": "APPLOVIN-M",
+      "select_backup_ads": "g",
+      "main_ads_banner": "f4b9028e06ac0127",
+      "main_ads_intertitial": "4edce15ca8199a55",
+      "backup_ads_banner": "g",
+      "backup_ads_intertitial": "g",
+      "initialize_sdk": "5476632",
+      "initialize_sdk_backup_ads": "g",
+	  "main_ads_native": "fbcb0caac17366a4",
+      "backup_ads_native": "g",
+      "interstitial_counter": "0",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "keyword_home_fragment": "gacha life",
+      "show_category": "p1"
+    }
+  ],
+  "DATA": [
+    
+    {
+      "title_search": "cat art",
+      "image_url": "https://ia801403.us59a-959a98038fcbe1736aaddfcc6.png"
+    },{
+      "title_search": "cute art",
+      "image_url": "https://i.pinimg.com/750x/88/e2/25/88e2259b6dc84140b55f8e5152920ee0.jpg"
+    },{
+      "title_search": "sky art",
+      "image_url": "https://i.pinimg.com/564x/30/51/0c/30510c30e3e3a3d10d2721c508c26a2e.jpg"
+    },{
+      "title_search": "chill art",
+      "image_url": "https://i.pinimg.com/564x/94/29/ec/9429ece7316d416b3f94f9494cb7e01a.jpg"
+    },{
+      "title_search": "water art",
+      "image_url": "https://i.pinimg.com/564x/97/81/df/9781dfe541804b99ede55eaa36be0060.jpg"
+    },{
+      "title_search": "samurai art",
+      "image_url": "https://i.pinimg.com/564x/15/fd/88/15fd88a2d95d1bebd6fc3a974ccfff1f.jpg"
+    }
+  ]
+}
